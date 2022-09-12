@@ -1,0 +1,6 @@
+*/obj/*
+*/.vs/*
+*/bin/*
+.DS_Store
+MySplit/public.snk
+MySplit/sgKey.snk
